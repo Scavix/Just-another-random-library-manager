@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\countries.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\LibraryManager.exe
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\books.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\lendings.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\users.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\LibraryManager.dll
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\LibraryManager.deps.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\LibraryManager.runtimeconfig.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\LibraryManager.pdb
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\Newtonsoft.Json.dll

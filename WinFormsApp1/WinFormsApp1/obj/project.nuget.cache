@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IBmd3olTGw0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franc\\OneDrive\\Desktop\\WinFormsApp1\\WinFormsApp1\\LibraryManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

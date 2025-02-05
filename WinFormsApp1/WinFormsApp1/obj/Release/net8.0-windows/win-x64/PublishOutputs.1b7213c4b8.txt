@@ -1,0 +1,6 @@
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\LibraryManager.pdb
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\countries.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\books.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\lendings.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\users.json
+C:\Users\franc\OneDrive\Desktop\WinFormsApp1\WinFormsApp1\bin\Release\net8.0-windows\publish\win-x64\LibraryManager.exe
