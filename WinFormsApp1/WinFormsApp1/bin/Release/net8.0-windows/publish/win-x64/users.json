@@ -1,0 +1,32 @@
+[
+  {
+    "Id": "0",
+    "FirstName": "admin",
+    "LastName": "admin",
+    "Email": "admin@admin.admin",
+    "Password": "admin",
+    "Country": "Italy",
+    "Username": "admin",
+    "Role": 0
+  },
+  {
+    "Id": "1",
+    "FirstName": "user",
+    "LastName": "user",
+    "Email": "user@user.user",
+    "Password": "user",
+    "Country": "Italy",
+    "Username": "user",
+    "Role": 1
+  },
+  {
+    "Id": "c21d4e64-4a62-4aa7-bb72-888d05d7f56d",
+    "FirstName": "Fran",
+    "LastName": "Cesco",
+    "Email": "fscav@testmail.com",
+    "Password": "password",
+    "Country": "Italy",
+    "Username": "fscav",
+    "Role": 1
+  }
+]

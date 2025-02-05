@@ -1,0 +1,202 @@
+[
+  {
+    "Id": "1",
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Genre": "Classic",
+    "IsAvailable": true,
+    "ISBN": "9780743273565"
+  },
+  {
+    "Id": "2",
+    "Title": "1984",
+    "Author": "George Orwell",
+    "Genre": "Dystopian",
+    "IsAvailable": true,
+    "ISBN": "9780451524935"
+  },
+  {
+    "Id": "3",
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "Genre": "Fiction",
+    "IsAvailable": true,
+    "ISBN": "9780061120084"
+  },
+  {
+    "Id": "4",
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy",
+    "IsAvailable": true,
+    "ISBN": "9780547928227"
+  },
+  {
+    "Id": "5",
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "Genre": "Romance",
+    "IsAvailable": true,
+    "ISBN": "9781503290563"
+  },
+  {
+    "Id": "6",
+    "Title": "Moby Dick",
+    "Author": "Herman Melville",
+    "Genre": "Adventure",
+    "IsAvailable": true,
+    "ISBN": "9781503280786"
+  },
+  {
+    "Id": "7",
+    "Title": "War and Peace",
+    "Author": "Leo Tolstoy",
+    "Genre": "Historical",
+    "IsAvailable": true,
+    "ISBN": "9781400079988"
+  },
+  {
+    "Id": "8",
+    "Title": "Crime and Punishment",
+    "Author": "Fyodor Dostoevsky",
+    "Genre": "Philosophical",
+    "IsAvailable": true,
+    "ISBN": "9780486454115"
+  },
+  {
+    "Id": "9",
+    "Title": "Brave New World",
+    "Author": "Aldous Huxley",
+    "Genre": "Dystopian",
+    "IsAvailable": true,
+    "ISBN": "9780060850524"
+  },
+  {
+    "Id": "10",
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Genre": "Classic",
+    "IsAvailable": true,
+    "ISBN": "9780316769488"
+  },
+  {
+    "Id": "11",
+    "Title": "Don Quixote",
+    "Author": "Miguel de Cervantes",
+    "Genre": "Classic",
+    "IsAvailable": true,
+    "ISBN": "9780060934347"
+  },
+  {
+    "Id": "12",
+    "Title": "Les Miserables",
+    "Author": "Victor Hugo",
+    "Genre": "Historical",
+    "IsAvailable": true,
+    "ISBN": "9780451419439"
+  },
+  {
+    "Id": "13",
+    "Title": "The Odyssey",
+    "Author": "Homer",
+    "Genre": "Epic",
+    "IsAvailable": true,
+    "ISBN": "9780140268867"
+  },
+  {
+    "Id": "14",
+    "Title": "The Iliad",
+    "Author": "Homer",
+    "Genre": "Epic",
+    "IsAvailable": true,
+    "ISBN": "9780140275360"
+  },
+  {
+    "Id": "15",
+    "Title": "Dracula",
+    "Author": "Bram Stoker",
+    "Genre": "Horror",
+    "IsAvailable": true,
+    "ISBN": "9780486411095"
+  },
+  {
+    "Id": "16",
+    "Title": "Frankenstein",
+    "Author": "Mary Shelley",
+    "Genre": "Gothic",
+    "IsAvailable": true,
+    "ISBN": "9780486282114"
+  },
+  {
+    "Id": "17",
+    "Title": "The Picture of Dorian Gray",
+    "Author": "Oscar Wilde",
+    "Genre": "Philosophical",
+    "IsAvailable": true,
+    "ISBN": "9780486278070"
+  },
+  {
+    "Id": "18",
+    "Title": "Wuthering Heights",
+    "Author": "Emily Bronte",
+    "Genre": "Gothic",
+    "IsAvailable": true,
+    "ISBN": "9781505313108"
+  },
+  {
+    "Id": "19",
+    "Title": "Jane Eyre",
+    "Author": "Charlotte Bronte",
+    "Genre": "Romance",
+    "IsAvailable": true,
+    "ISBN": "9780141441146"
+  },
+  {
+    "Id": "20",
+    "Title": "The Count of Monte Cristo",
+    "Author": "Alexandre Dumas",
+    "Genre": "Adventure",
+    "IsAvailable": true,
+    "ISBN": "9780140449266"
+  },
+  {
+    "Id": "21",
+    "Title": "The Brothers Karamazov",
+    "Author": "Fyodor Dostoevsky",
+    "Genre": "Philosophical",
+    "IsAvailable": true,
+    "ISBN": "9780374528379"
+  },
+  {
+    "Id": "22",
+    "Title": "The Divine Comedy",
+    "Author": "Dante Alighieri",
+    "Genre": "Epic",
+    "IsAvailable": true,
+    "ISBN": "9780142437223"
+  },
+  {
+    "Id": "23",
+    "Title": "Anna Karenina",
+    "Author": "Leo Tolstoy",
+    "Genre": "Romance",
+    "IsAvailable": true,
+    "ISBN": "9780143035008"
+  },
+  {
+    "Id": "24",
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "Genre": "Fantasy",
+    "IsAvailable": true,
+    "ISBN": "9780618640157"
+  },
+  {
+    "Id": "25",
+    "Title": "Fahrenheit 451",
+    "Author": "Ray Bradbury",
+    "Genre": "Dystopian",
+    "IsAvailable": true,
+    "ISBN": "9781451673319"
+  }
+]
